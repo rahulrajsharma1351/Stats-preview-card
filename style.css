@@ -191,6 +191,11 @@ body {
 }
 @media  screen and (max-width:400px){
     .cont {
-        width:290px;
+        width:350px;
+    }
+}
+@media  screen and (max-width:360px){
+    .cont {
+        width:300px;
     }
 }
